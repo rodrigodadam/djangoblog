@@ -1,0 +1,1 @@
+web: gunicorn blogdadam2022.wsgi
