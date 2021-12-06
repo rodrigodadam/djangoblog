@@ -1,1 +1,1 @@
-web: gunicorn blogdadam2022.wsgi
+web: gunicorn blog.wsgi
